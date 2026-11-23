@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "photo-ai-studio": {
+      "type": "http",
+      "url": "https://www.photoaistudio.com/api/mcp"
+    }
+  }
+}

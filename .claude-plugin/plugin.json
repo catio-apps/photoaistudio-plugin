@@ -1,0 +1,14 @@
+{
+  "name": "photo-ai-studio",
+  "displayName": "Photo AI Studio",
+  "version": "1.0.0",
+  "description": "Turn your own photos into headshots, styled portraits, edits, and short videos with your Photo AI Studio account.",
+  "author": { "name": "EDSDEV INC", "url": "https://www.photoaistudio.com" },
+  "homepage": "https://www.photoaistudio.com",
+  "repository": "https://github.com/catio-apps/photoaistudio-plugin",
+  "license": "MIT",
+  "keywords": ["headshot","portrait","photo editing","ai photos","background removal"],
+  "supportUrl": "https://www.photoaistudio.com/contact",
+  "privacyPolicyUrl": "https://www.photoaistudio.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.photoaistudio.com/terms-conditions"
+}

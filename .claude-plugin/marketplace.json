@@ -1,0 +1,8 @@
+{
+  "name": "photoaistudio-plugin",
+  "owner": { "name": "EDSDEV INC", "url": "https://www.photoaistudio.com" },
+  "description": "Turn your own photos into headshots, styled portraits, edits, and short videos with your Photo AI Studio account.",
+  "plugins": [
+    { "name": "photo-ai-studio", "source": "./", "description": "Turn your own photos into headshots, styled portraits, edits, and short videos with your Photo AI Studio account." }
+  ]
+}
